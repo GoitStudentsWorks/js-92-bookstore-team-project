@@ -5,7 +5,7 @@
   "type": "module",
   "scripts": {
     "dev": "vite",
-    "build": "vite build --base=/bookstore-team-project/",
+    "build": "vite build --base=/js-92-bookstore-team-project/",
     "preview": "vite preview"
   },
   "devDependencies": {
